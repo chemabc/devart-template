@@ -1,16 +1,24 @@
 {
     "technologies": {
         "apis": [
-            "insert apis"
+            "twitter"
         ],
         "platforms": [
-            "insert platforms"
+            "android",
+			"web"
         ],
         "toolkits": [
-            "insert toolkits"
+            "arduino"
         ]
     },
     "themes": [
-        "insert themes"
+        "freedom of speech",
+		"diy",
+		"diwo",
+		"textiles",
+		"wearable",
+		"electronics",
+		"code",
+		"collective expression",
     ]
 }
