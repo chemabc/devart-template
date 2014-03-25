@@ -12,4 +12,4 @@ Outdoor collective demonstrations have been recently organized through social ne
 
 ## Images & Videos
 ![KLE street](project_images/kle_visualization.jpg "KLE street")
-![KLE context](project_images/kle_context.png "KLE context")
+![KLE context](project_images/kle_context.jpg "KLE context")
